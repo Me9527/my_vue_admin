@@ -5,6 +5,7 @@ const name = 'my vue example' // page title
 // For example, Mac: sudo npm run
 const port = 8888 // dev port
 
+// try git commit
 // All configuration item explanations can be find in https://cli.vuejs.org/config/
 module.exports = {
   devServer: {
